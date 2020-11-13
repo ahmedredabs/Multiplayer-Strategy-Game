@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: animationTilesAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5487427702cfcc048a1b5f6c659c6110, type: 3}
+    - {fileID: 2800000, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+    - {fileID: 2800000, guid: 21f592cc98dc61049840a09aad83d34d, type: 3}
+    - {fileID: 2800000, guid: 861dc164eaa07fd489c6094b518490dd, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 861dc164eaa07fd489c6094b518490dd, type: 3}
+  - {fileID: -9149673930503440904, guid: 5487427702cfcc048a1b5f6c659c6110, type: 3}
+  - {fileID: 5562076767505886979, guid: 5487427702cfcc048a1b5f6c659c6110, type: 3}
+  - {fileID: 5954236512946597717, guid: 5487427702cfcc048a1b5f6c659c6110, type: 3}
+  - {fileID: -2737695007280859209, guid: 5487427702cfcc048a1b5f6c659c6110, type: 3}
+  - {fileID: -5902822806567810773, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: -8008542283404590485, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: -9003636142950761985, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: 5966104880974104972, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: 6329203391550142528, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: -2956004393322212650, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: 739720538862099149, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: -1114032854239983473, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: -2427770190404415231, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: 16799644513684661, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: -1662825251899055422, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: -6537708284995984610, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: 6444486741068525827, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: 4681456477228703531, guid: 21b2dbd85bcfbf84397ae0f70f77af7a, type: 3}
+  - {fileID: 21300000, guid: 21f592cc98dc61049840a09aad83d34d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - water_waves_16x16
+  - door_16x16_1
+  - door_16x16_0
+  - door_16x16_3
+  - door_16x16_2
+  - water_waves_16x16_10
+  - water_waves_16x16_11
+  - water_waves_16x16_12
+  - water_waves_16x16_13
+  - water_waves_16x16_9
+  - water_waves_16x16_8
+  - water_waves_16x16_5
+  - water_waves_16x16_4
+  - water_waves_16x16_7
+  - water_waves_16x16_6
+  - water_waves_16x16_1
+  - water_waves_16x16_0
+  - water_waves_16x16_3
+  - water_waves_16x16_2
+  - door_16x16
+  m_Tag: animationTilesAtlas
+  m_IsVariant: 0
