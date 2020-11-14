@@ -53,3 +53,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Terrain
+    uniqueID: 580135737
+    locked: 0
+  - name: Collider
+    uniqueID: 3264802613
+    locked: 0
+  - name: Player
+    uniqueID: 3374564769
+    locked: 0
+  - name: FrontDecor
+    uniqueID: 1706551613
+    locked: 0
